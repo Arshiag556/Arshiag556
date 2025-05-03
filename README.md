@@ -8,7 +8,8 @@
 - 🌱 I’m currently working on multiple projects using **Django**  
 - 👨‍💻 All of my projects are available at [github.com/Arshiag556](https://github.com/Arshiag556)  
 - 💬 Ask me about **Python**  
-- 📫 How to reach me: **arshiag556@gmail.com**  
+- 📫 How to reach me: **arshiag556@gmail.com**
+- 📪 My telegram id: **@ArshY0X**
 - 🤝 Also, check out my brother’s GitHub: [github.com/iliag556](https://github.com/iliag556)  
 
 ---
