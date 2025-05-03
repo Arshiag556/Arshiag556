@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiag556&label=Profile%20views&color=0e75b6&style=flat" alt="arshiag556" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working on multiple projects using **Django**
 
-- 👨‍💻 All of my projects are available at [http://github.com/Arshiag556](http://github.com/Arshiag556)
+- 👨‍💻 All of my projects are available at [github.com/Arshiag556](http://github.com/Arshiag556)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **arshiag556@gmail.com**
+- 📫 How to reach me: **arshiag556@gmail.com**
+
+- 🤝 Also, check out my brother’s GitHub for more cool projects: [github.com/iliag556](https://github.com/iliag556)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
