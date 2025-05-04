@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=arshiag556&label=Profile%20views&color=0e75b6&style=flat" alt="arshiag556" />
 </p>
 
-- 🌱 I’m currently working on multiple projects using **Django**  
+- 🌱 I'm currently working on multiple projects using  **Python**. 
 - 👨‍💻 All of my projects are available at [github.com/Arshiag556](https://github.com/Arshiag556)  
 - 💬 Ask me about **Python**  
 - 📫 How to reach me: **arshiag556@gmail.com**
